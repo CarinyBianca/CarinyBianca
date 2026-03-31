@@ -1,9 +1,10 @@
-# 👩🏻‍💻 Cariny Bianca
+# 👩🏻‍💻 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76000A&width=435&lines=Cariny+Bianca" alt="Typing SVG" /></a>
 
 **`Desenvolvedora FullStack`**
 
 Me chamo Cariny Bianca, tenho 20 anos e sou natural de Belém do Pará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Umiversidade da Amazônia. 
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
